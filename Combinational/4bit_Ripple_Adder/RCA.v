@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-
+//This is a Rippel Carry Adder using 4Full Adder.
 
 module RCA(
     input [3:0] A,B,
